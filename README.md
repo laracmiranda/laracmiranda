@@ -16,7 +16,7 @@
 ---
 
 ### 📫 Como me encontrar:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)]([https://www.linkedin.com/in/seulinkedin/](https://www.linkedin.com/in/lara-corsini-de-miranda-b919232a5/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/lara-corsini-de-miranda-b919232a5/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:laracorsinidemiranda@gmail.com)
 
 ---
