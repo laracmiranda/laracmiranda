@@ -1,24 +1,97 @@
-### 👋 Olá, eu sou a Lara Corsini!
 
-🎓 Estudante de **Desenvolvimento Full Stack**  
-🎨 Apaixonada por **UI/UX Design** e interfaces intuitivas  
-💻 Explorando o mundo da **programação web**, com foco em **Front-end** e **React**
-
----
-
-### 🚀 Tecnologias que venho aprendendo:
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=2500&pause=1000&color=EE82EE&center=true&vCenter=true&width=435&lines=Ol%C3%A1+visitante!+Me+chamo+Lara;Sou+desenvolvedora+front-end;Me+arrisco+no+backend+e+design;Amo+doces+e+gatinhos!" alt="Typing SVG" />
+</p>
 
 ---
 
-### 📫 Como me encontrar:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/lara-corsini-de-miranda-b919232a5/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:laracorsinidemiranda@gmail.com)
+<p align="center"><strong>🌸 Desenvolvedora Web em transição de carreira 🌸</strong></p>
 
 ---
 
-💬 *"Design não é apenas o que parece e o que se sente. Design é como funciona."* — Steve Jobs
+### 💬 Sobre mim
+
+✨ Sou apaixonada por tecnologia!  
+🎯 Atualmente trabalho com suporte técnico e estou em transição para o desenvolvimento front-end.  
+🎨 Tenho experiência com **design UX/UI** e conhecimentos em **HTML**, **CSS**, **JavaScript**, **Node.js**, **PrismaORM** e estou aprendendo **React**!  
+📬 Mande uma mensagem, será um prazer falar com você!
+
+---
+
+### ⭐ Tecnologias que adoro
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23EE82EE?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%23DA70D6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23EE82EE?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-%23DA70D6?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-%23EE82EE?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+---
+
+### 📈 Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=laracmiranda&show_icons=true&theme=tokyonight&title_color=DA70D6&icon_color=EE82EE" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laracmiranda&layout=compact&theme=tokyonight&title_color=DA70D6" />
+</p>
+
+---
+
+### 📫 Onde me encontrar
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%23DA70D6?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:laracorsinidemiranda@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-%23EE82EE?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+
+### 🛠️ Tecnologias e Ferramentas Favoritas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23EE82EE?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%23DA70D6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Figma-%23A259FF?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+---
+
+### 📈 Estatísticas GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=laracmiranda&show_icons=true&theme=tokyonight&title_color=DA70D6&icon_color=EE82EE" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laracmiranda&layout=compact&theme=tokyonight&title_color=DA70D6" />
+</p>
+
+---
+
+### 🌐 Onde me encontrar
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/laracorsinim" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%23DA70D6?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:laracorsinidemiranda@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-%23EE82EE?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODU5YWZwZDBneTZ1eXU2b2xsNm92c3l3bzFoeXliYW05YWpxdTJqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2XflxzGoMXkpe9bvyk8/giphy.gif" width="250px" alt="GIF gandalf" />
+</p>
+
+<p align="center">
+  Feito com 💜 por <strong>Lara Corsini</strong> — Obrigada por visitar meu perfil!
+</p>
