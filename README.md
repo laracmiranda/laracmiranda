@@ -21,11 +21,11 @@
 ### ⭐ Tecnologias que adoro
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23EE82EE?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%23DA70D6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23EE82EE?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-%23DA70D6?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-%23EE82EE?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-%23e854e8?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%23e854e8?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23e854e8?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-%23e854e8?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-%23e854e8?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
@@ -42,12 +42,12 @@
 ### 📫 Onde me encontrar
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%23DA70D6?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/laracorsinim" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%23e854e8?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="mailto:laracorsinidemiranda@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-%23EE82EE?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/E--mail-%23e854e8?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
