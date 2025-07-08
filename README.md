@@ -1,13 +1,23 @@
+<p align="center">
+  <img src="1.png" width="500px" alt="planets" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=2500&pause=1000&color=EE82EE&center=true&vCenter=true&width=435&lines=Ol%C3%A1+visitante!+Me+chamo+Lara;Sou+desenvolvedora+front-end;Me+arrisco+no+backend+e+design;Amo+doces+e+gatinhos!" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="2.png" width="500px" alt="moon" />
+</p>
 ---
 
 <p align="center"><strong>🌸 Desenvolvedora Web em transição de carreira 🌸</strong></p>
 
 ---
+
+<p align="center">
+  <img src="3.png" width="500px" alt="ground" />
+</p>
 
 ### 💬 Sobre mim
 
