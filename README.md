@@ -19,14 +19,10 @@
 
 ### 🌈 Sobre mim
 
-- Sou apaixonada por tecnologia!  
 - Atualmente trabalho com suporte técnico e estou em transição para o desenvolvimento front-end.  
-- Tenho experiência com **design UX/UI** e conhecimentos em **HTML**, **CSS**, **JavaScript**, **Node.js**, **PrismaORM** e estou aprendendo **React**!  
-- Mande uma mensagem, será um prazer falar com você!
-
-<p align="center">
-  <img src="3.png"" width="1000px" alt="ground" />
-</p>
+- Tenho experiência com **design UX/UI** com ""Figma"" e conhecimentos em **HTML**, **CSS**, **JavaScript**, **Node.js**, **PrismaORM** e estou aprendendo **React**!  
+- Formada na UNIVESP em Bacharel de Tecnologia da Informação.
+- Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia!
 
 --- 
 
@@ -51,6 +47,14 @@
 
 ---
 
+### 🏆 Troféus
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=laracmiranda&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+---
+
 ### 📫 Fale comigo!
 
 <p align="center">
@@ -62,6 +66,18 @@
     <img src="https://img.shields.io/badge/E--mail-%23EE82EE?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+<p align="center">
+  <img src="3.png"" width="1000px" alt="ground" />
+</p>
+
+---
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
+</picture>
 
 --- 
 <p align="center">
