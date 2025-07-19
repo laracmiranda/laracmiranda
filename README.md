@@ -24,9 +24,15 @@
 - Formada na UNIVESP em Bacharel de Tecnologia da Informação.
 - Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia!
 
+<br/>
+
+<p align="center">
+  <img src="3.png"" width="1000px" alt="ground" />
+</p>
+
 --- 
 
-### ⭐ Tecnologias que adoro
+### ⭐ Tecnologias
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-%23EE82EE?style=for-the-badge&logo=html5&logoColor=white" />
@@ -36,24 +42,7 @@
   <img src="https://img.shields.io/badge/Figma-%23EE82EE?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
----
-
-### 📈 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laracmiranda&show_icons=true&theme=tokyonight&title_color=DA70D6&icon_color=EE82EE" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laracmiranda&layout=compact&theme=tokyonight&title_color=DA70D6" />
-</p>
-
----
-
-### 🏆 Troféus
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=laracmiranda&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
----
+<br/>
 
 ### 📫 Fale comigo!
 
@@ -66,9 +55,6 @@
     <img src="https://img.shields.io/badge/E--mail-%23EE82EE?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-<p align="center">
-  <img src="3.png"" width="1000px" alt="ground" />
-</p>
 
 ---
 <br/>
@@ -78,6 +64,16 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
 </picture>
+
+---
+
+### 📈 Estatísticas
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=laracmiranda&locale=en&mode=daily&theme=tokyonight&title_color=DA70D6&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laracmiranda&layout=compact&theme=tokyonight&title_color=DA70D6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=laracmiranda&show_icons=true&theme=tokyonight&title_color=DA70D6&icon_color=EE82EE" />
+</p>
 
 --- 
 <p align="center">
