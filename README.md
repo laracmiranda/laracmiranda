@@ -20,7 +20,7 @@
 ### 🌈 Sobre mim
 
 - Atualmente trabalho com suporte técnico e estou em transição para o desenvolvimento front-end.  
-- Tenho experiência com **design UX/UI** com ""Figma"" e conhecimentos em **HTML**, **CSS**, **JavaScript**, **Node.js**, **PrismaORM** e estou aprendendo **React**!  
+- Tenho experiência em **design UX/UI** com **Figma**, conhecimentos em **HTML**, **CSS**, **JavaScript**, **Node.js**, **PrismaORM** e atualmente estou aprendendo **React**!  
 - Formada na UNIVESP em Bacharel de Tecnologia da Informação.
 - Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia!
 
