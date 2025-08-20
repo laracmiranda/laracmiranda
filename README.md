@@ -12,11 +12,6 @@
 
 ---
 
-<p align="center"><strong>🌸 Desenvolvedora Web em transição de carreira 🌸</strong></p>
-
---- 
-
-
 ### 🌈 Sobre mim
 
 Desenvolvedora front-end, apaixonada por tecnologia, design e ideias criativas!
@@ -34,31 +29,50 @@ Desenvolvedora front-end, apaixonada por tecnologia, design e ideias criativas!
 
 --- 
   
-### ⭐ Tecnologias
+## ⭐ Tecnologias que uso
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23EE82EE?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%23EE82EE?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23EE82EE?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-%23EE82EE?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-%23EE82EE?style=for-the-badge&logo=figma&logoColor=white" />
+### FrontEnd
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-9c679c?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-9c679c?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-9c679c?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-9c679c?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-9c679c?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-9c679c?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-<br/>
+### BackEnd
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-9c679c?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-9c679c?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-9c679c?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-9c679c?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neon-9c679c?style=for-the-badge&logo=neon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudinary-9c679c?style=for-the-badge&logo=cloudinary&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-9c679c?style=for-the-badge&logo=jsonwebtoken&logoColor=white" />
+</p>
 
-### 📫 Fale comigo!
+### Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-9c679c?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-9c679c?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Insomnia-9c679c?style=for-the-badge&logo=insomnia&logoColor=white" />
+</p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/laracorsinim" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%23EE82EE?style=for-the-badge&logo=linkedin&logoColor=white" />
+--- 
+
+## 📫 Fale comigo!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/laracorsinim">
+    <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=9c679c" />
   </a>
 
   <a href="mailto:laracorsinidemiranda@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-%23EE82EE?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/E--mail-white?style=for-the-badge&logo=gmail&logoColor=9c679c" />
   </a>
 </p>
 
----
 <br/>
 
 <picture>
@@ -69,7 +83,7 @@ Desenvolvedora front-end, apaixonada por tecnologia, design e ideias criativas!
 
 ---
 
-### 📈 Estatísticas
+## 📈 Estatísticas
 
 <p align="center">
   <img height="180em" src="https://streak-stats.demolab.com?user=laracmiranda&locale=en&mode=daily&theme=tokyonight&title_color=DA70D6&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
