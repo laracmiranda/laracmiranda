@@ -85,11 +85,11 @@ Desenvolvedora front-end, apaixonada por tecnologia, design e ideias criativas!
 
 ## 📈 Estatísticas
 
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=laracmiranda&locale=en&mode=daily&theme=tokyonight&title_color=DA70D6&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laracmiranda&layout=compact&theme=tokyonight&title_color=DA70D6" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laracmiranda&show_icons=true&theme=tokyonight&title_color=DA70D6&icon_color=EE82EE" />
-</p>
+| ![Lara Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=laracmiranda&mode-daily&theme=tokyonight&title_color=DA70D6&icon_color=EE82EE") | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=laracmiranda&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=laracmiranda&theme=tokyonight) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laracmiranda&theme=tokyonight) | ![](https://streak-stats.demolab.com?user=laracmiranda&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3) |
+| :-: | :-: |
 
 --- 
 <p align="center">
