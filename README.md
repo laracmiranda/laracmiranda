@@ -89,8 +89,11 @@ Acredito que a maior forma de aprender é ensinando e costumo postar frequenteme
 </div>
 
 </br>
+</br>
 
 ---
+
+</br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph-dark.svg">
