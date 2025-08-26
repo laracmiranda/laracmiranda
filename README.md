@@ -67,7 +67,7 @@ Sou muito curiosa e estou constantemente atualizando meus conhecimentos e buscan
 
 --- 
 
-<img src="assets/iconcat_1.jpg" width=250 align="right">
+<img src="assets/iconcat_1.jpg" width=300 align="right">
 
 <div align="justify">
     
