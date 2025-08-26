@@ -1,3 +1,17 @@
+<!--
+    Querido usuário usando meu README como base para criar seu próprio:
+    Fico muito feliz que você tenha gostado e sinta-se livre para o uso!
+    Eu apenas peço uma coisa, por gentileza:
+
+    Por favor, deixe uma estrela no meu README, irá deixar meu dia mais feliz :)
+    ------
+    Dear user using my README as a base  to create your own:
+    I’m glad you liked it and feel free to use it!
+    I just kindly ask for one thing:
+
+    Please, leave a star on my README, it will make my day :)
+-->
+
 <p align="center">
   <img src="1.png" width="1000px" alt="planets" />
 </p>
