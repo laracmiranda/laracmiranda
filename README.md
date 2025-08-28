@@ -73,17 +73,17 @@ Sou muito curiosa e estou constantemente atualizando meus conhecimentos e buscan
     
 ### Um pouco mais sobre mim! 
 Eu gosto de desafios que me fazem crescer! 
-Atualmente estou aprendendo mais sobre `APIS Rest`.
 Gosto de ajudar outras pessoas dentro da área de tecnologia.
 Acredito que a maior forma de aprender é ensinando e costumo postar frequentemente no linkedin meus aprendizados para outras pessoas se inspirarem </br>
+Sou a maior fã existente de `Linkin Park`!
 
 **Fale comigo:**
 
   <a href="https://www.linkedin.com/in/laracorsinim">
-    <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=000000" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:laracorsinidemiranda@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-white?style=for-the-badge&logo=gmail&logoColor=000000" />
+    <img src="https://img.shields.io/badge/E--mail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
 </div>
@@ -154,22 +154,6 @@ Acredito que a maior forma de aprender é ensinando e costumo postar frequenteme
 </p>
 
 </br> 
-
-<div align="center">
-</a>
-<a href="https://api.github-star-counter.workers.dev/user/laracmiranda">
-  <img width="115px" 
-       alt="seguidores" 
-       title="Total de estrelas" 
-       src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=ffffff&logoColor=00000&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/laracmiranda" /> 
-</a>
-<a href="https://github.com/laracmiranda?tab=followers">
-  <img width="150px" 
-       alt="seguidores" 
-       title="seguidores no GitHub" 
-       src="https://custom-icon-badges.herokuapp.com/github/followers/laracmiranda?color=000000&labelColor=gray&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
-</a>
-</div>
 
 <p align="center">
   Obrigada por visitar meu perfil! 💜
