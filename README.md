@@ -26,10 +26,10 @@
 ### Sobre mim
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mona+sans&weight=600&size=18&duration=3000&pause=1000&color=8135B4&background=F29FFF00&width=500&height=30&lines=Ol%C3%A1+visitante!+Me+chamo+Lara+%F0%9F%92%9C;Sou+desenvolvedora+FullStack;Me+arrisco+no+design+%F0%9F%8E%A8;Adoro+gatinhos+e+jogos+2D!+%E2%AD%90)](https://git.io/typing-svg)
 
-Desenvolvedora `Fullstack`, apaixonada por tecnologia, design e ideias fora da caixa!
-Formada na UNIVESP em Bacharel de Tecnologia da Informação.
-Comecei minha trajetória profissional como Suporte Técnico, o que me fez ganhar muita visão do lado do usuário e regras de negócio, me ajudando à criar aplicações que realmente fazem sentido!
-Tenho experiência em **design UX/UI** com `Figma`, conhecimentos em `HTML`, `CSS`, `JavaScript`, `Node.js`, `PosgreSQL`, `PrismaORM` e atualmente estou aprendendo `React` e `.NET`! 
+Sou `Analista de Suporte ao Cliente Júnior` e me aventuro como desenvolvedora `Fullstack`. 
+Apaixonada por tecnologia, design e ideias fora da caixa! Sou formada na UNIVESP em **Bacharel de Tecnologia da Informação**.
+Estar atuando junto ao cliente como suporte me proporciona uma visão das necessidades do usuário e regras de negócio, me ajudando à criar aplicações que realmente fazem sentido!
+Tenho experiência em **UX/UI** com `Figma`, conhecimentos em `HTML`, `CSS`, `JavaScript`, `Node.js`, `PosgreSQL`, `PrismaORM` e atualmente estou aprendendo `React`, `Java` e `automações`! 
 Sou muito curiosa e estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia!
 
 </div>
@@ -48,6 +48,7 @@ Sou muito curiosa e estou constantemente atualizando meus conhecimentos e buscan
   <img src="https://img.shields.io/badge/React-66298f?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-66298f?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-66298f?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-66298f?style=for-the-badge&logo=mongodb&logoColor=white" />
 </br>
   <img src="https://img.shields.io/badge/Node.js-66298f?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-66298f?style=for-the-badge&logo=express&logoColor=white" />
@@ -62,6 +63,8 @@ Sou muito curiosa e estou constantemente atualizando meus conhecimentos e buscan
   <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Insomnia-000000?style=for-the-badge&logo=insomnia&logoColor=white" />
   <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Datadog-000000?style=for-the-badge&logo=datadog&logoColor=white" />
   
 </div>
 
