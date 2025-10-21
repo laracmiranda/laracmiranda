@@ -63,8 +63,8 @@ Sou muito curiosa e estou constantemente atualizando meus conhecimentos e buscan
   <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Insomnia-000000?style=for-the-badge&logo=insomnia&logoColor=white" />
   <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Datadog-000000?style=for-the-badge&logo=datadog&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-000000?style=for-the-badge&logo=trello&logoColor=white" />
   
 </div>
 
