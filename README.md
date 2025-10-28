@@ -29,7 +29,7 @@
 Sou `Analista de Suporte ao Cliente Júnior` e me aventuro como desenvolvedora `Fullstack`. 
 Apaixonada por tecnologia, design e ideias fora da caixa! Sou formada na UNIVESP em **Bacharel de Tecnologia da Informação**.
 Estar atuando junto ao cliente como suporte me proporciona uma visão das necessidades do usuário e regras de negócio, me ajudando à criar aplicações que realmente fazem sentido!
-Tenho experiência em **UX/UI** com `Figma`, conhecimentos em `HTML`, `CSS`, `JavaScript`, `Node.js`, `PosgreSQL`, `PrismaORM` e atualmente estou aprendendo `React`, `Java` e `automações`! 
+Tenho experiência em **UX/UI** com `Figma`, conhecimentos em `HTML`, `CSS`, `JavaScript`, `Node.js`, `PosgreSQL`, `PrismaORM` e atualmente estou aprendendo `Java` e `automações`! 
 Sou muito curiosa e estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia!
 
 </div>
