@@ -105,6 +105,10 @@ Sou a maior fã existente de `Linkin Park`!
 
 <div align="center">
 
+<p align="center">
+  <img src="assets/hearts.jpg" width="200px" height="100px" alt="Shy Cat" />
+</p>
+
 <!-- Statistics -->
 ### Estatísticas
 
@@ -115,40 +119,6 @@ Sou a maior fã existente de `Linkin Park`!
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laracmiranda&theme=midnight_purple) | ![](https://streak-stats.demolab.com?user=laracmiranda&locale=en&mode=daily&theme=midnight_purple&hide_border=false&border_radius=5&order=3) |
 | :-: | :-: |
-
----
-
-<p align="center">
-  <img src="assets/hearts.jpg" width="200px" height="100px" alt="Shy Cat" />
-</p>
-
-<!-- My Best Repositories -->
-<div align="center">
-
-  <h3>
-   Meus melhores repositórios
-  </h3></br>
-
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/laracmiranda/Site_Bazar_Ecommerce">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=laracmiranda&repo=Site_Bazar_Ecommerce&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
-    </a>
-    <a href="https://github.com/laracmiranda/Estudos_Gerais">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=laracmiranda&repo=Estudos_Gerais&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
-    </a>
-</div>
-
-<div align="center">
-
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/laracmiranda/Estudos_AvantiBootcamp">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=laracmiranda&repo=Estudos_AvantiBootcamp&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
-    </a>
-    <a href="https://github.com/laracmiranda/Receitas_API">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=laracmiranda&repo=Receitas_API&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
-    </a>
-</div>
-</br>
 
 --- 
 
