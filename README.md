@@ -49,6 +49,7 @@ Sou muito curiosa e estou constantemente atualizando meus conhecimentos e buscan
   <img src="https://img.shields.io/badge/Vite-66298f?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-66298f?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-66298f?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/C#-66298f?style=for-the-badge&logo=c#&logoColor=white" />
 </br>
   <img src="https://img.shields.io/badge/Node.js-66298f?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-66298f?style=for-the-badge&logo=express&logoColor=white" />
